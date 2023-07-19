@@ -5,3 +5,13 @@ En aquest repositori hi ha emmagatzemat:
 - El codi en llenguatge Python en format Jupyter notebook.
 
 - El dossier final. Aquest informe conté la meva proposta com a part final del treball. Tots els canvis comentats a cada sessió de seguiment es troben realitzats en conjunt en aquest fitxer.
+
+----------------------------
+
+This repository stores:
+
+- The different dossiers made and discussed with the tutor in each follow-up session.
+
+- The code in Python language in Jupyter notebook format.
+
+- The final dossier. This report contains my proposal as the final part of the work. All the changes discussed in each follow-up session are made together in this file.
