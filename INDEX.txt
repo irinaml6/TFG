@@ -1,0 +1,7 @@
+En aquest repositori hi ha emmagatzemat:
+
+- Els diferents dossiers realitzats i comentats amb la persona tutora a cada sessió de seguiment.
+
+- El codi en llenguatge Python en format Jupyter notebook.
+
+- El dossier final. Aquest informe conté la meva proposta com a part final del treball. Tots els canvis comentats a cada sessió de seguiment es troben realitzats en conjunt en aquest fitxer.
